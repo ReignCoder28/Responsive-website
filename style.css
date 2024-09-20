@@ -1,0 +1,42 @@
+.body{
+    background-color: #f1e6d2;
+}
+
+.header-1{
+    padding-left: 110px;
+}
+
+.picture-1{
+    margin-left: 100px;
+    border-color: #891d1a;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 20px; 
+    width: 300px; 
+    height: 300px;
+}
+
+.picture-2{
+    margin-left: 100px;
+    border-color: #5e657b;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 20px;
+    width: 300px;
+    height: 300px;
+}
+
+.picture-3{
+    margin-left: 100px;
+    border-color: #210706;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 20px;
+    width: 300px;
+    height: 300px;
+}
+
+.Info{
+     font-family: "Playfair Display", serif;
+    
+}
