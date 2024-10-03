@@ -1,0 +1,25 @@
+.andrew-pic{
+    border-style: solid;
+    border-radius: 20px;
+    border: 5px solid #5e657b;
+    height: 350px;
+}
+
+.body-3{
+    background-color: #f1e6d2;
+}
+
+.Info-3{
+    font-family: "Playfair Display", serif;
+}
+
+@media (min-width: 700px) {
+    .info-3{
+        font-size: small;
+        margin-left: 50px;
+        display: flex;
+    }
+    .andrew-container{
+        display: flex;
+    }
+}

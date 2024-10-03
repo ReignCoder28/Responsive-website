@@ -1,0 +1,29 @@
+.Toby-maguire-pic{
+    margin-left: 100px;
+    border-color: #210706;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 20px;
+    width: 220px;
+    height: 350px;
+}
+
+.body-4{
+    background-color: #f1e6d2;
+}
+
+.Info-4{
+    font-family: "Playfair Display", serif;
+}
+
+@media (min-width: 700px){
+    .info-4{
+        font-size: small;
+        margin-left: 50px;
+        display: flex;
+    }
+    .toby-container{
+        display: flex;
+    }
+
+}

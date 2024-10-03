@@ -1,0 +1,28 @@
+.Tom-pic{
+    margin-left: 100px;
+    border-color: #891d1a;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 20px; 
+    width: 300px; 
+    height: 300px;
+}
+
+.Info-2{
+    font-family: "Playfair Display", serif;
+}
+
+.body-2 {
+    background-color: #f1e6d2;
+}
+
+@media (min-width: 700px) {
+    .Info-2{
+        font-size: small;
+        margin-left: 50px;
+        display: flex;
+    }
+    .tom-container{
+        display: flex;
+    }
+}

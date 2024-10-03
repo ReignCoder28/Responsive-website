@@ -37,6 +37,36 @@
 }
 
 .Info{
-     font-family: "Playfair Display", serif;
+    font-family: "Playfair Display", serif;
+}
+
+@media (min-width: 700px) {
+
+    .header-1{
+        margin-left: 350px;
+        font-size: x-large;
+    }
+
+    .Info{
+        width: 500px;
+        height: 300px;
+        font-size: small;
+        padding: 20px
+    }
+
+    .tom-holland{
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .Andrew-garfield{
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .Toby-maguire{
+        display: flex;
+        justify-content: space-around;
+    }
     
 }
